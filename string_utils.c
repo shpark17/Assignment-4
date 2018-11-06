@@ -1,5 +1,5 @@
 //Author: SungHa Park
-//Date: 11/05/2018
+//Date: 11/06/2018
 //This program contains all function prototypes with documentation and their definitions.
 
 #include<stdio.h>
